@@ -1,6 +1,5 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
 #font and axis equation setup using LATEX
 font = {'family': 'serif',
         'color':  'black',
