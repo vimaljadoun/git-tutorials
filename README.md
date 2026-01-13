@@ -1,2 +1,2 @@
 # git-tutorials
-I have created this repository to learn the Git commands in Linux for managing code on GitHub.
+The git tutorial to use the git and GitHub to manage codes and different development projects.
