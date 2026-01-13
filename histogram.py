@@ -1,3 +1,5 @@
+# This code demostrate the distribution of random numbers fitted in gaussian distribution
+
 import numpy as np
 import matplotlib.pyplot as plt
 #font and axis equation setup using LATEX
